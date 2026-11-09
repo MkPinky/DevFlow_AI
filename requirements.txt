@@ -3,3 +3,4 @@ streamlit==1.67.0
 crewai==1.15.39
 python-dotenv==1.2.4
 litellm==1.108.3
+python-docx==1.2.0
